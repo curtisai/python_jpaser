@@ -1,0 +1,2 @@
+class JEntityType:
+    STRING, INTEGER, BOOLEAN, DOUBLE, OBJECT, ARRAY, UNKNOWN = range( 7 )
